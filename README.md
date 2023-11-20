@@ -13,16 +13,21 @@ Results-driven Software Engineer specialized in front end development with exper
 ## Skills
 - Front-End Development: HTML, CSS, JavaScript, React, Angular
 - .NET Technologies: ASP.NET, Blazor, Razor Components, Razor Pages
-- Other Skills: TypeScript, C#, Web3 Technologies, Blockchain, dApps
+- Other Skills: TypeScript, C#, Web3 Technologies, Ruby, Ruby on Rails
 - Tools: Git, Visual Studio, Visual Studio Code, JIRA
 
 ## Experience
-### VetFriends | Software Engineer | May 2021 - Present | New York, NY (remote)
+### AvXteL | Software Engineer | August 2023 - Present | Chantilly, VA (remote)
+- Full Stack developer responsible for design and development of robust, modular web application based on Ruby on Rails and ExtJS
+- Designed and developed high quality, reusable web platform components utilizing MySQL RDS, Elastic Compute Cloud (EC2), Simple Storage Service (S3) and other cloud technologies
+- Responsible for construction of automated unit and integration tests in support of Continuous Integration (CI) / Continuous Development (CD) pipeline
+
+### VeeFriends | Software Engineer | May 2022 - July 2023 | New York, NY (remote)
 - Collaborated with designers to revamp the UI/UX of the company's website using Blazor, resulting in a 20% increase in user engagement.
 - Contributed to the development of new navigation and event pages using Angular, improving site navigation by 30%.
 - Actively participated in code reviews and documentation efforts, promoting code quality and knowledge sharing within the team.
 
-### U.S. Bank (Elavon Inc) | Software Developer | May 2019 - May 2021 (remote)
+### U.S. Bank (Elavon Inc) | Software Developer | May 2019 - May 2022 (remote)
 - Built and maintained merchant administration dashboard in Angular JS, Angular, and Dotnet Blazor.
 - The dashboard gives merchants the ability to run reports, review settlements, address credit card processing rules, invoice customers, create stand-alone self-checkout pages, and manage PCI compliance and self-assessment.
 
