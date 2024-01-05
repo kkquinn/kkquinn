@@ -38,5 +38,8 @@ Results-driven Software Engineer specialized in front end development with exper
 
 ## Education
 Salem International University | B.S. Degree, Business Administration | September 2012 - June 2014
-- Relevant Coursework: Computer Science, Web Development, Data Structures
+
+### Certifications
+- SharePoint Online for Administrators | December 2023
+- Power BI A-Z: Hands-On Power BI Training For Data Science | December 2023
 
